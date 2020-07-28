@@ -1,0 +1,2 @@
+# traderepublic-rs
+TradeRepublic API
